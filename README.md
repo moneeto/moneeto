@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moneeto
+- 👋 Hi, I’m Joaquin
 - 👀 I’m interested in Front-End Design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Tenaris
