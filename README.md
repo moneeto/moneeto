@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joaquin
-- 👀 I’m interested in Front-End Design
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Tenaris
+- 👀 I’m interested in Front-End UI Design
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on MercadoLibre
 - 📫 How to reach me?: palmeyro-businessacc@outlook.com
 
 <!---
