@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joaquin
-- 👀 I’m interested in Front-End UI Design
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Joaquin Palmeyro
+- 👀 I’m interested in UI Web Develop
+- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on MercadoLibre
 - 📫 How to reach me?: palmeyro-businessacc@outlook.com
 
