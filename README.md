@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joaquin Palmeyro
-- 👀 I’m interested in UI Web Develop
+- 👀 I’m interested in UI Web Development
 - 🌱 I’m currently learning React.JS
 - 📫 How to reach me?: palmeyro-businessacc@outlook.com
 
